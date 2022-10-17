@@ -1,7 +1,6 @@
 # CocosSharp.UWP
 Experimental UWP implementation for popular CocosSharp gamedev "engine". 
 
-
 ## About
 I forked this [Andy's CocosSharp-uwp-fork](https://github.com/Andy9FromSpace/CocosSharp) project.
 
@@ -18,7 +17,7 @@ This is draft only. UWP Library seems to be not completed. No samples... only 1 
 - /Src/CocosSharp.UWP.sln  - CocosSharp.UWP "framework" solution;
 - /Src/Tests/CocosSharp.Tests.WindowsUWP.sln - Demo "test app" :)
 - Min. win os build switched to 15063; 
-- Target ARM tested a little, and Win x64 too!
+- Target ARM tested a little, and Win x64 too.
 
 
 ## Current status / Plan for future experiments
@@ -40,7 +39,7 @@ Full Xamarin Forms support (Android, iOS, and UWP "family")
 - [Social.Msdn.Microsoft.Com Discussion](https://social.msdn.microsoft.com/Forums/en-US/cfc972eb-8a7c-4caf-aa9e-401187a58cef/cocossharp-for-uwp?forum=xamarinlibraries)
 
 ## ..
-AS IS. No support. RnD only. DIY :)
+AS IS. No support. RnD only. 
 
 ## .
-- [m][e] 2022, September
+[m][e] 2022, October
